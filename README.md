@@ -26,14 +26,18 @@ The app has the following features:
 ## Technologies Used
 The app was built using the following technologies:
 
--Typescript
--React.js
--Tailwind
--Javascript
--HTML
--CSS
+- Typescript
+- React.js
+- Tailwind
+- Javascript
+- HTML
+- CSS
+
 ## Contribution
 If you find any issues with the app or would like to contribute to its development, please feel free to create a pull request or raise an issue on the GitHub repository.
+
+## Live Demo
+Live demo is hosted using vercel: [User Data]([https://github.com/RishabhMishra76](https://userdata-opktil6zi-rishabhmishra76.vercel.app/))
 
 ## Credits
 This application was built by [Rishabh Mishra](https://github.com/RishabhMishra76).
