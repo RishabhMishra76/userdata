@@ -23,6 +23,12 @@ The app has the following features:
 - Update user data
 - Delete user data
 
+
+Validations performed by app:
+- Name only typed in alphabets(max 20).
+- Phone number only in numbers of length 10 to 13 (format: +911122334455).
+- Age only in numbers(max 200).
+
 ## Technologies Used
 The app was built using the following technologies:
 
